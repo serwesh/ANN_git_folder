@@ -36,9 +36,3 @@ Our goal is to train an **Artificial Neural Network (ANN)** that can accurately 
 
 ---
 
-## 🚀 How to Run the Project
-
-### 1️⃣ Clone this repository
-```bash
-git clone https://github.com/your-username/mnist-ann-classifier.git
-cd mnist-ann-classifier
